@@ -22,3 +22,9 @@
 - No CSS border-radius is required (GitHub strips most CSS).
 - If GitHub shows the old images, hard-refresh or wait for its image proxy cache to update.
 - Keep the `assets/products/` folder structure unchanged.
+
+
+## V4.2 SVG compatibility fix
+- Fixed `assets/domains.svg`: escaped the raw ampersand in `FINTECH & TRADING` as `&amp;` (required by XML/SVG).
+- Validated and raster-rendered all three SVG assets.
+- Upload `assets/domains.svg` to replace the broken file; README and other assets remain compatible.
