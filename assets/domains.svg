@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="310" viewBox="0 0 1200 310">
+<rect width="1200" height="310" rx="25" fill="#0b1122"/>
+<rect x="18" y="18" width="375" height="128" rx="20" fill="#141d32" stroke="#344360"/>
+<rect x="35" y="40" width="5" height="28" rx="2" fill="#49c7ff"/>
+<text x="52" y="63" font-family="Arial,sans-serif" font-size="20" font-weight="bold" fill="#f0f4ff">FINTECH & TRADING</text>
+<text x="52" y="101" font-family="Arial,sans-serif" font-size="16" fill="#aab8d5">gRPC · market data · security</text>
+<rect x="413" y="18" width="375" height="128" rx="20" fill="#141d32" stroke="#344360"/>
+<rect x="430" y="40" width="5" height="28" rx="2" fill="#a68cff"/>
+<text x="447" y="63" font-family="Arial,sans-serif" font-size="20" font-weight="bold" fill="#f0f4ff">DIGITAL IDENTITY</text>
+<text x="447" y="101" font-family="Arial,sans-serif" font-size="16" fill="#aab8d5">NFC · eKYC · biometrics</text>
+<rect x="808" y="18" width="375" height="128" rx="20" fill="#141d32" stroke="#344360"/>
+<rect x="825" y="40" width="5" height="28" rx="2" fill="#6ce5d5"/>
+<text x="842" y="63" font-family="Arial,sans-serif" font-size="20" font-weight="bold" fill="#f0f4ff">ON-DEVICE AI</text>
+<text x="842" y="101" font-family="Arial,sans-serif" font-size="16" fill="#aab8d5">Local LLM · vision · voice</text>
+<rect x="18" y="163" width="375" height="128" rx="20" fill="#141d32" stroke="#344360"/>
+<rect x="35" y="185" width="5" height="28" rx="2" fill="#e3b37b"/>
+<text x="52" y="208" font-family="Arial,sans-serif" font-size="20" font-weight="bold" fill="#f0f4ff">IOT & DRONES</text>
+<text x="52" y="246" font-family="Arial,sans-serif" font-size="16" fill="#aab8d5">DJI SDK · device control</text>
+<rect x="413" y="163" width="375" height="128" rx="20" fill="#141d32" stroke="#344360"/>
+<rect x="430" y="185" width="5" height="28" rx="2" fill="#7db6ff"/>
+<text x="447" y="208" font-family="Arial,sans-serif" font-size="20" font-weight="bold" fill="#f0f4ff">CONSUMER APPS</text>
+<text x="447" y="246" font-family="Arial,sans-serif" font-size="16" fill="#aab8d5">Multimedia · voice · mirroring</text>
+<rect x="808" y="163" width="375" height="128" rx="20" fill="#141d32" stroke="#344360"/>
+<rect x="825" y="185" width="5" height="28" rx="2" fill="#d5a1f5"/>
+<text x="842" y="208" font-family="Arial,sans-serif" font-size="20" font-weight="bold" fill="#f0f4ff">MONETIZATION</text>
+<text x="842" y="246" font-family="Arial,sans-serif" font-size="16" fill="#aab8d5">IAP · subscriptions · ads</text>
+</svg>

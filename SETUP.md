@@ -1,28 +1,24 @@
-# Install your GitHub profile (5 minutes)
+# GitHub Profile V3 — Setup
 
-1. Log in to GitHub as **KhiemPham1702**.
-2. Create a **public** repository named exactly **KhiemPham1702** (the same as your username). If it already exists, use it.
-3. Upload **README.md** and the **assets/** folder from this package to the repository root. Keep the folder structure unchanged.
-4. Commit changes to the repository's **default branch**.
-5. Open https://github.com/KhiemPham1702 — the README appears directly on your profile; visitors do not need to open the repo.
+1. Create (or open) the **public** repository `KhiemPham1702/KhiemPham1702`.
+2. Upload `README.md` and the **entire** `assets/` directory to the repository root.
+3. Commit to the default branch. Visit https://github.com/KhiemPham1702 to view your profile.
 
 ## Files
-- `README.md`: finished GitHub-profile content.
-- `assets/hero-banner.svg`: custom Mobile × AI hero.
-- `assets/engineering-domains.svg`: six domain cards.
-- `assets/products/nexsu-ai.jpg`: supplied Nexsu AI promotional artwork.
-- `assets/products/nexsu-tarot.jpg`: supplied Nexsu Tarot promotional artwork.
-
-## Live links included
-- Nexsu AI: https://play.google.com/store/apps/details?id=com.nexsu.offlinechat
-- Nexsu Tarot: https://play.google.com/store/apps/details?id=com.nexsu.tarot
-- Email: skhiem17022002@gmail.com
+- `assets/hero.svg`: custom typography hero, subtle SVG pulse.
+- `assets/domains.svg`: responsive-width domain summary (fixed intrinsic ratio).
+- `assets/products/*.png`: rounded, bordered, consistent-size product previews created from your supplied screenshots.
 
 ## Notes
-- No commercial app source code is included.
-- Images are from the assets you supplied. Please confirm that all images are suitable for public display.
-- Company achievements are paraphrased from your CV. Confirm public-sharing permission for company-specific details and metrics.
-- GitHub stats and skill icons are loaded from third-party services and require those services to be online.
-- The README uses relative image paths; do not upload only the README without `assets/`.
-- GitHub renders a limited subset of HTML/SVG. Static SVGs and HTML tables are used for compatibility.
-- The 1M+ figure describes downloads of products you **contributed to**, not individual app ownership or monthly active users.
+- GitHub sanitizes arbitrary CSS and JavaScript. This package uses GitHub-compatible Markdown/HTML, static rounded PNGs and SVG animations. Some clients may disable SVG animation.
+- Google Play package links were carried forward from the conversation. **Verify the app listing URLs** before publishing.
+- Professional achievements are summarized from the supplied CVs. Only publish company-related details you are permitted to disclose.
+- To remove external GitHub stats, delete the `github-readme-stats.vercel.app` image near the bottom.
+- Images are local, so the profile does not depend on a third-party image host.
+
+
+## V4.1 — Rounded image fix
+- Product previews are **RGBA PNG with truly transparent rounded corners**, not dark rectangular backgrounds.
+- No CSS border-radius is required (GitHub strips most CSS).
+- If GitHub shows the old images, hard-refresh or wait for its image proxy cache to update.
+- Keep the `assets/products/` folder structure unchanged.

@@ -1,121 +1,109 @@
 <div align="center">
 
-<a href="https://github.com/KhiemPham1702"><img src="assets/hero-banner.svg" width="100%" alt="Khiem Pham — Mobile Software Engineer, Mobile × AI" /></a>
+<img src="./assets/hero.svg" alt="Khiem Pham — Mobile Software Engineer" width="100%" />
 
-<br />
+<br/>
 
-**3+ years in mobile engineering** &nbsp; · &nbsp; **Contributed to 1M+ download products** &nbsp; · &nbsp; **Indie app creator**
+**3+ years shipping mobile software** &nbsp; • &nbsp; **Contributed to apps with 1M+ downloads** &nbsp; • &nbsp; **Independent app creator**
 
-<br />
+<br/>
 
-<a href="mailto:skhiem17022002@gmail.com"><img src="https://img.shields.io/badge/LET'S_CONNECT-Email-151D32?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://play.google.com/store/apps/details?id=com.nexsu.offlinechat"><img src="https://img.shields.io/badge/ON_GOOGLE_PLAY-Nexsu_AI-151D32?style=for-the-badge&logo=googleplay&logoColor=8DBBFF" alt="Nexsu AI" /></a>
-<a href="https://play.google.com/store/apps/details?id=com.nexsu.tarot"><img src="https://img.shields.io/badge/ON_GOOGLE_PLAY-Nexsu_Tarot-151D32?style=for-the-badge&logo=googleplay&logoColor=C5A5FF" alt="Nexsu Tarot" /></a>
-
-</div>
-
-<br />
-
-## 👋 A little about me
-
-I'm **Khiem**, a **Mobile Software Engineer** with **3+ years of professional experience** delivering Android and cross-platform apps across **fintech, digital identity, AI, IoT, and consumer technology**.
-
-I work across **Flutter / Dart**, **native Android / Kotlin**, and **iOS integrations**, with a particular interest in **real-time systems, secure mobile experiences, and on-device intelligence**. Outside work, I independently design, build, and publish mobile products.
-
-> **My focus:** engineering mobile experiences that feel effortless, even when the systems behind them are complex.
-
-<br />
-
-## ◈ Engineering across domains
-
-<img src="assets/engineering-domains.svg" width="100%" alt="Six engineering domains: Fintech & Trading, Digital Identity, On-device AI, IoT & Drone Technology, Consumer Mobile, and Monetization" />
-
-<br />
-
-## ✦ Independently shipped products
-
-Real products, published on Google Play. **The application source code is private**; the links below lead to their public store listings.
-
-### 01 / Nexsu AI — Your local AI workspace
-
-<a href="https://play.google.com/store/apps/details?id=com.nexsu.offlinechat"><img src="assets/products/nexsu-ai.jpg" width="100%" alt="Nexsu AI — private on-device AI mobile application" /></a>
-
-**Private intelligence. Right on your device.** An offline-first mobile AI workspace exploring local language models, streaming conversations, voice interaction, and image understanding.
-
-`Flutter` `Dart` `On-device LLM` `Offline-first` `AI Vision` `Voice AI`
-
-**Engineering focus:** local model execution · memory-aware mobile inference · streaming responses · privacy-first UX.
-
-**→ [Explore Nexsu AI on Google Play](https://play.google.com/store/apps/details?id=com.nexsu.offlinechat)**
-
-<br />
-
-### 02 / Nexsu Tarot — AI Tarot & Astrology
-
-<a href="https://play.google.com/store/apps/details?id=com.nexsu.tarot"><img src="assets/products/nexsu-tarot.jpg" width="100%" alt="Nexsu Tarot — AI Tarot and astrology mobile app" /></a>
-
-**Your universe. Your cards. Your answers.** An independently built mobile experience blending expressive Flutter interfaces, interactive Tarot, astrology, and AI-powered insights.
-
-`Flutter` `Dart` `Firebase` `AI Features` `Play Billing` `AdMob`
-
-**Engineering focus:** end-to-end product delivery · custom UI/UX · subscriptions and in-app purchases · analytics and monetization.
-
-**→ [Explore Nexsu Tarot on Google Play](https://play.google.com/store/apps/details?id=com.nexsu.tarot)**
-
-<br />
-
-## ⚡ Production engineering experience
-
-<table>
-<tr><td width="25%"><b>Anfin</b><br/><sub>2025 – 2026</sub></td><td><b>Real-time fintech & trading</b><br/>Built mobile trading features using gRPC unary/streaming, real-time orderbooks and live charts, plus secure flows involving T-OTP, biometrics, and digital signing.</td></tr>
-<tr><td><b>CoolDev</b><br/><sub>2024 – 2025</sub></td><td><b>AI, drones & consumer applications</b><br/>Contributed to production apps spanning voice AI, computer vision, DJI gimbal controls and screen mirroring, including products reaching 500K–1M+ downloads.</td></tr>
-<tr><td><b>Gtel Mobile</b><br/><sub>2023 – 2024</sub></td><td><b>Digital identity & mobile SDKs</b><br/>Developed reusable NFC/eKYC SDKs and identity verification flows across Android and Flutter, including MRZ, NFC and face recognition integrations.</td></tr>
-</table>
-
-<sub>Selected experience highlights only. Employer code and proprietary implementations are not published here.</sub>
-
-<br />
-
-## 🧰 Engineering toolkit
-
-<div align="center">
-
-**Mobile & languages**
-
-<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,java,swift,androidstudio" alt="Flutter, Dart, Kotlin, Java, Swift, Android Studio" />
-
-**Cloud, development & delivery**
-
-<img src="https://skillicons.dev/icons?i=firebase,aws,git,github,githubactions,figma" alt="Firebase, AWS, Git, GitHub, GitHub Actions, Figma" />
+<a href="mailto:skhiem17022002@gmail.com"><img src="https://img.shields.io/badge/Let's_talk-Email-13213A?style=for-the-badge&logo=gmail&logoColor=8DE8FF" alt="Email"/></a>
+<a href="https://github.com/KhiemPham1702"><img src="https://img.shields.io/badge/Explore-GitHub-13213A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://play.google.com/store/apps/details?id=com.nexsu.offlinechat"><img src="https://img.shields.io/badge/Live_app-Nexsu_AI-13213A?style=for-the-badge&logo=googleplay&logoColor=8DE8FF" alt="Nexsu AI"/></a>
+<a href="https://play.google.com/store/apps/details?id=com.nexsu.tarot"><img src="https://img.shields.io/badge/Live_app-Nexsu_Tarot-13213A?style=for-the-badge&logo=googleplay&logoColor=C9A8FF" alt="Nexsu Tarot"/></a>
 
 </div>
 
-<br />
+<br/>
 
-| Architecture & state | Networking & streaming | Security & mobile intelligence |
-| :--- | :--- | :--- |
-| Clean Architecture, MVVM, BLoC, Riverpod, GetX, DI | gRPC, WebSocket, REST, real-time synchronization | NFC, eKYC, biometrics, ML Kit, AWS Rekognition, on-device LLM |
+### 👋 Hey, I'm Khiem
 
-<br />
+I’m a **Mobile Software Engineer** building reliable, polished apps across **Flutter, native Android and iOS integration**. My work spans **real-time fintech**, **digital identity**, **AI/ML**, **connected devices** and **consumer apps**. I enjoy the hard parts behind great mobile experiences: architecture, data streams, native integrations, security, performance and shipping.
 
-## 📈 GitHub activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KhiemPham1702&show_icons=true&hide_border=true&bg_color=0C1325&title_color=86CFFF&text_color=CBD5E1&icon_color=A78BFA&include_all_commits=true" height="160" alt="GitHub statistics" />
-</div>
-
-<sub>Most professional projects are maintained in private company repositories. Public GitHub activity is only a partial view of my work.</sub>
+> **Beyond the public repos:** Most of my professional code is proprietary. Below are products I independently shipped and selected engineering experience.
 
 ---
 
+### ✦ Engineering across domains
+
+<div align="center"><img src="./assets/domains.svg" alt="Six engineering domains: Fintech and Trading, Digital Identity, On-device AI, IoT and Drones, Consumer Apps, Monetization" width="100%"/></div>
+
+<br/>
+
+### 🚀 Featured apps · built & shipped independently
+
+<table>
+<tr>
+<td width="50%" valign="top" align="center">
+<a href="https://play.google.com/store/apps/details?id=com.nexsu.offlinechat"><img src="./assets/products/nexsu-ai.png" alt="Nexsu AI — offline on-device AI app" width="100%"/></a>
+<h3>✦ Nexsu AI</h3>
+<strong>Private intelligence. Right on your device.</strong><br/><br/>
+On-device language models, offline chat, voice AI and image understanding — designed around privacy and performance.<br/><br/>
+<code>Flutter</code> <code>On-device LLM</code> <code>Voice</code> <code>Vision</code><br/><br/>
+<a href="https://play.google.com/store/apps/details?id=com.nexsu.offlinechat"><img src="https://img.shields.io/badge/View_on-Google_Play-263C66?style=for-the-badge&logo=googleplay&logoColor=white" alt="Nexsu AI on Google Play"/></a>
+</td>
+<td width="50%" valign="top" align="center">
+<a href="https://play.google.com/store/apps/details?id=com.nexsu.tarot"><img src="./assets/products/nexsu-tarot.png" alt="Nexsu Tarot — AI Tarot and astrology app" width="100%"/></a>
+<h3>☾ Nexsu Tarot</h3>
+<strong>Your universe. Your cards. Your answers.</strong><br/><br/>
+A polished AI-powered Tarot and astrology experience with interactive readings, custom UI and production monetization.<br/><br/>
+<code>Flutter</code> <code>Firebase</code> <code>AI</code> <code>Subscriptions</code><br/><br/>
+<a href="https://play.google.com/store/apps/details?id=com.nexsu.tarot"><img src="https://img.shields.io/badge/View_on-Google_Play-45305F?style=for-the-badge&logo=googleplay&logoColor=white" alt="Nexsu Tarot on Google Play"/></a>
+</td>
+</tr>
+</table>
+
+> 🔒 **Private source, public products.** Product cards link to app listings, not proprietary code.
+
+---
+
+### 💼 Where I've built
+
+| | Experience | Engineering focus |
+|:--|:--|:--|
+| **01** | **Anfin** · Mobile Developer · 2025–2026 | Real-time trading, gRPC unary/streaming, orderbook and price charts, transaction security, T-OTP and biometrics. |
+| **02** | **CoolDev** · Mobile Developer · 2024–2025 | AI assistants, computer vision, DJI drone controls, speech, screen mirroring and consumer apps reaching **500K–1M+ downloads**. |
+| **03** | **Gtel Mobile** · Mobile Developer · 2023–2024 | Reusable Android/Flutter **NFC eKYC SDKs**, MRZ, face verification, AWS Rekognition and bank/e-wallet integration flows. |
+
+---
+
+### 🧰 My engineering toolkit
+
+**Mobile platforms & languages**
+
+![Flutter](https://img.shields.io/badge/Flutter-16263F?style=flat-square&logo=flutter&logoColor=54C5F8)
+![Dart](https://img.shields.io/badge/Dart-16263F?style=flat-square&logo=dart&logoColor=4DC7E5)
+![Kotlin](https://img.shields.io/badge/Kotlin-16263F?style=flat-square&logo=kotlin&logoColor=B78CFF)
+![Java](https://img.shields.io/badge/Java-16263F?style=flat-square)
+![Swift](https://img.shields.io/badge/Swift-16263F?style=flat-square&logo=swift&logoColor=FFAE87)
+![Android](https://img.shields.io/badge/Android-16263F?style=flat-square&logo=android&logoColor=89DBAB)
+![iOS](https://img.shields.io/badge/iOS-16263F?style=flat-square&logo=apple&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-16263F?style=flat-square&logo=jetpackcompose&logoColor=ACB9FF)
+
+**Architecture & app state** — Clean Architecture · MVVM · BLoC · Riverpod · GetX · Coroutines · Flow · Dependency Injection · Repository Pattern
+
+**Networking & real-time** — REST APIs · gRPC Unary & Streaming · WebSocket · real-time synchronization · push notifications
+
+**Mobile security & SDKs** — NFC · eKYC · MRZ · biometrics · OTP/T-OTP · digital signing · Android/Flutter SDK development
+
+**AI, multimedia & connected devices** — On-device LLM · computer vision · ML Kit · AWS Rekognition · speech-to-text · DJI SDK · screen mirroring
+
+**Cloud, shipping & growth** — Firebase · Firestore · Git · Google Play Billing · in-app purchases · subscriptions · Google AdMob · Pangle
+
+---
+
+### ⚡ A little more than code
+
+- I like turning difficult mobile constraints into simple experiences — **offline execution, real-time data, native device APIs and privacy**.
+- I care about **shipping**, not just prototypes: architecture, testing, performance, debugging and release readiness.
+- I built **Nexsu AI** and **Nexsu Tarot** independently and keep their commercial source private.
+
 <div align="center">
-
-### Let's build something meaningful.
-
-**Mobile engineering · Real-time experiences · On-device AI**
-
-[**Email me**](mailto:skhiem17022002@gmail.com) · [**GitHub**](https://github.com/KhiemPham1702) · [**Nexsu AI**](https://play.google.com/store/apps/details?id=com.nexsu.offlinechat) · [**Nexsu Tarot**](https://play.google.com/store/apps/details?id=com.nexsu.tarot)
-
-<sub>Designed with care · © Khiem Pham</sub>
-
+<br/>
+<img src="https://github-readme-stats.vercel.app/api?username=KhiemPham1702&show_icons=true&hide_border=true&bg_color=0B1122&title_color=8CB8FF&text_color=C2CCE5&icon_color=A78BFA" alt="GitHub statistics" height="160"/>
+<br/><br/>
+<strong>Let's build something worth shipping.</strong><br/>
+<sub>Mobile engineering · On-device AI · Production-minded development</sub><br/><br/>
+<a href="mailto:skhiem17022002@gmail.com"><img src="https://img.shields.io/badge/Contact_me-Email-273B60?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me"/></a>
 </div>
