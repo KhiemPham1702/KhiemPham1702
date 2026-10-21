@@ -68,6 +68,54 @@ A polished AI-powered Tarot and astrology experience with interactive readings, 
 
 ---
 
+### 🏢 Production apps · contributed at work
+
+> Selected **company-owned products** I contributed to as a Mobile Developer. My work focused on the features described below; these are **team products, not independently owned or open-source projects**.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 📈 AnfinX · Anfin
+
+**Fintech / Commodity Trading**
+
+Built real-time mobile trading experiences, including **gRPC unary & streaming**, order placement and modification, live **orderbook / price charts**, and transaction-security workflows.
+
+`Flutter` `gRPC` `Streaming` `T-OTP` `Biometrics`
+
+<a href="https://play.google.com/store/apps/details?id=vn.anfin.commodity"><img src="https://img.shields.io/badge/Explore_AnfinX-Google_Play-163D55?style=for-the-badge&logo=googleplay&logoColor=white" alt="AnfinX on Google Play" /></a>
+
+</td>
+<td width="50%" valign="top">
+
+#### 📡 iZOTA · Gtel Mobile
+
+**Telecommunications / Digital Services**
+
+Contributed to **OTT integration** for the iZOTA telecom platform. At Gtel, also developed reusable **NFC eKYC SDKs** and identity-verification flows for mobile integrations.
+
+`Android` `Flutter` `OTT` `NFC` `eKYC`
+
+<a href="https://play.google.com/store/apps/details?id=com.zopost.zota"><img src="https://img.shields.io/badge/Explore_iZOTA-Google_Play-163D55?style=for-the-badge&logo=googleplay&logoColor=white" alt="iZOTA on Google Play" /></a>
+
+</td>
+</tr>
+</table>
+
+#### ✨ CoolDev · AI, drones & connected experiences
+
+| Product | Domain | My contribution |
+|:--|:--|:--|
+| **[Voice AI Assistant for Seri](https://play.google.com/store/apps/details?id=com.smartremote.homepodsiri)** · 1M+ downloads* | AI / Voice / Productivity | Voice messaging, translation, note-taking and AI chatbot integrations. |
+| **[Fly Go 4: Drone Camera Remote](https://play.google.com/store/apps/details?id=com.smartremote.djiflydrone)** · 1M+ downloads* | IoT / Drone Control | Drone gimbal control via mobile and remote controllers, including legacy-device support. |
+| **[Hidden Camera Detector Cam Spy](https://play.google.com/store/apps/details?id=com.smartremote.camera.detector)** · 10K+ downloads* | Computer Vision / Security | Real-time object-recognition features for hidden-camera detection. |
+| **[CarLink – Car Play Connect](https://play.google.com/store/apps/details?id=com.cooldev.carplay.castcar)** | Automotive / Screen Mirroring | Mobile-to-car screen-mirroring functionality for compatible displays. |
+
+<sub>*Download figures are the approximate product milestones stated in my CV, not downloads personally generated. Public store listings and branding may change over time.</sub>
+
+---
+
 ### 🧰 My engineering toolkit
 
 **Mobile platforms & languages**

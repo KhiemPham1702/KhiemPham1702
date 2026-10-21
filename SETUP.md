@@ -28,3 +28,10 @@
 - Fixed `assets/domains.svg`: escaped the raw ampersand in `FINTECH & TRADING` as `&amp;` (required by XML/SVG).
 - Validated and raster-rendered all three SVG assets.
 - Upload `assets/domains.svg` to replace the broken file; README and other assets remain compatible.
+
+
+## V4.3 — Company apps section
+- Added a dedicated **Production apps · contributed at work** section below Professional Experience.
+- Verified Google Play links for **AnfinX**, **iZOTA**, and **CarLink**.
+- Other CoolDev products are listed by the names and contributions stated in the CV; no unverified store URLs were invented.
+- Company apps are explicitly distinguished from independently owned Nexsu apps.
